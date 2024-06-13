@@ -38,7 +38,7 @@ export default function Uses() {
       <div className="space-y-20">
         <ToolsSection title="Front-end Developing">
           <Tool title="Website Development">
-            Leveraging my skills in ReactJS, NextJS and NuxtJS I offer front-end web development services tailored to your needs. Whether you're a small business owner looking to establish your online presence or an individual seeking to create a personal website, I can assist you in bringing your vision to life.
+            Leveraging my skills in ReactJS, NextJS and NuxtJS I offer front-end web development services tailored to your needs. Whether you&apos;re a small business owner looking to establish your online presence or an individual seeking to create a personal website, I can assist you in bringing your vision to life.
           </Tool>
           <Tool title="UI/UX Design">
             I specialize in designing intuitive and visually appealing user interfaces, conducting thorough UX research and testing, and creating detailed wireframes, mockups, and prototypes using tools like Figma.
