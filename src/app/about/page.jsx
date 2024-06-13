@@ -67,7 +67,7 @@ export default function About() {
             </p>
             <h4 className='font-bold text-xl'>Education</h4>
             <ul className='list-disc list-inside'>
-              <li>Bachelor's Degree in Pharmacy</li>
+              <li>Bachelor&apos;s Degree in Pharmacy</li>
               <li>Meta Front-End Developer Certification</li>
             </ul>
             <h4 className='font-bold text-xl'>Skills</h4>
