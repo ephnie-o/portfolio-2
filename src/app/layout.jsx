@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
         <meta property='og:description' content="An improved portfolio as my skills expand." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://stephanieodoom2.com" />
-        <meta property="og:image" content="/Me.jpeg" />
+        <meta property="og:image" content="https://stephanieodoom.com/Me.jpeg" />
       </Head>
       <body className="flex h-full bg-zinc-50 dark:bg-black">
         <Providers>
