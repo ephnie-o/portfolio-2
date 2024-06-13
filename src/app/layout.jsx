@@ -13,7 +13,7 @@ export const metadata = {
   description:
     'I&apos;m Stephanie, a software programmer and pharmacist based in Ghana. I&apos;m the lead front end developer and assistant managing pharmacist at Stereda pharmaceuticals limited.',
   openGraph: {
-    images: 'https://stephanieodoom.com/Me.jpeg',
+    images: '/Me.jpeg',
   },
 }
 
