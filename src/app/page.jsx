@@ -301,8 +301,8 @@ export default async function Home() {
             Software programmer, Fitness Enthusiast, and Pharmacist.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Stephanie, a software programmer and pharmacist based in Ghana. 
-            I’m the lead front end developer and assistant managing pharmacist at Stereda pharmaceuticals limited.
+            I&apos;m Stephanie, a software programmer and pharmacist based in Ghana.
+            I&apos;m the lead front end developer and assistant managing pharmacist at Stereda pharmaceuticals limited.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
