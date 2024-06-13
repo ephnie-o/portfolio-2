@@ -29,7 +29,7 @@ export const metadata = {
   description: 'Services I provide as a Software Programmer, Pharmacist and Fitness Enthusiast',
 }
 
-export default function Uses() {
+export default function Services() {
   return (
     <SimpleLayout
       title="Services I provide as a Software Programmer, Pharmacist and Fitness Enthusiast"
