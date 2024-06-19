@@ -2,7 +2,6 @@ import { Providers } from '@/app/providers'
 import { Layout } from '@/components/Layout'
 
 import '@/styles/tailwind.css'
-import Head from 'next/head'
 
 export const metadata = {
   metadataBase: new URL('https://stephanieodoom.com'),
