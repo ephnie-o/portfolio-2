@@ -16,6 +16,7 @@ import image2 from '@/images/photos/image-2.jpg'
 import image3 from '@/images/photos/image-3.jpg'
 import image4 from '@/images/photos/image-4.jpg'
 import image5 from '@/images/photos/image-5.jpg'
+import Head from 'next/head'
 
 function MailIcon(props) {
   return (
@@ -295,6 +296,9 @@ export default async function Home() {
 
   return (
     <>
+      <Head>
+        <meta property='og:image' content='/Me.jpg' />
+      </Head>
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
