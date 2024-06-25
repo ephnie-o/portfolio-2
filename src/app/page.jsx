@@ -81,7 +81,7 @@ const project = [
     id: 1,
     date: 'Apr 15, 2024',
     title: 'PORTFOLIO WEBSITE: ',
-    description: "I designed and developed my personal portfolio website using React.js, Bootstrap, and CSS, with the initial design and layout prototyped in Figma. This project allowed me to demonstrate my skills in frontend development, including creating a responsive and visually appealing interface. Leveraging React.js ensured seamless navigation and dynamic content updates, while Bootstrap and CSS were instrumental in achieving a modern and polished design aesthetic. Using Figma for the design phase enabled me to craft intuitive and user-centered layouts, ensuring an optimal user experience across different devices and platforms. The portfolio website serves as a showcase of my work, skills, and experiences in the field of web development.",
+    description: "I designed and developed a portfolio website using React.js, Bootstrap, and CSS, with the initial design and layout prototyped in Figma. This project allowed me to demonstrate my skills in front-end development, including creating a responsive and visually appealing interface. Leveraging React.js ensured seamless navigation and dynamic content updates, while Bootstrap and CSS were instrumental in achieving a modern and polished design aesthetic. Using Figma for the design phase enabled me to craft intuitive and user-centered layouts, ensuring an optimal user experience across different devices and platforms. The portfolio website serves as a showcase of my work, skills, and experiences in the field of web development.",
     link1: 'https://github.com/ephnie-o/my-portfolio',
     link2: 'https://www.figma.com/design/mFAX3Sh8JX9UOBzEzXoz43/Portfolio-Website?node-id=0-1&t=klc5s35Aoypy5n0F-0',
     link3: 'https://stephanieodoom.com',
@@ -224,24 +224,18 @@ function Resume() {
   let resume = [
     {
       company: 'Stereda Pharmaceuticals Limited',
-      title: 'Front-end Developer',
-      start: '2022',
+      title: 'Assistant Managing Pharmacist / Front-End Developer',
+      start: 'Jan 2020',
       end: {
         label: 'Present',
         dateTime: new Date().getFullYear().toString(),
       },
     },
     {
-      company: 'Stereda Pharmaceuticals Limited',
-      title: 'Assistant Managing Pharmacist',
-      start: '2020',
-      end: '2022',
-    },
-    {
       company: 'AddPharma Ghana Limited',
-      title: 'Intern',
-      start: '2019',
-      end: '2020',
+      title: 'Health IT Consultant',
+      start: 'Jul 2019',
+      end: 'Sept 2019',
     },
   ]
 
@@ -302,7 +296,7 @@ export default async function Home() {
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
             I&apos;m Stephanie, a software programmer and pharmacist based in Ghana.
-            I&apos;m the lead front end developer and assistant managing pharmacist at Stereda pharmaceuticals limited.
+            I&apos;m the lead front-end developer and assistant managing pharmacist at Stereda pharmaceuticals limited.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink

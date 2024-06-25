@@ -88,7 +88,7 @@ export default function About() {
             <ul>
               <li><b>Assistant Managing Pharmacist at Stereda Pharmacy:</b> I led comprehensive technology-driven initiatives, optimizing operations, ensuring compliance, and fostering collaborative healthcare efforts. This included spearheading the development and implementation of a tailored ERP system, overseeing its conception, development, and front-end interface design to enhance efficiency and user experience.</li>
               <br />
-              <li><b>Front-End Developer:</b> I have worked on multiple website development projects using ReactJS, NextJS, VueJs, NuxtJs with React Bootstrap, Tailwind CSS and CSS3, creating responsive and user-friendly interfaces.</li>
+              <li><b>Front-End Developer at Stereda Pharmacy:</b> I have worked on multiple website development projects using ReactJS, NextJS, VueJs, NuxtJs with React Bootstrap, Tailwind CSS and CSS3, creating responsive and user-friendly interfaces.</li>
               <br />
               <li><b>UI/UX Designer:</b> Designing and prototyping websites with Figma, creating user-centered interfaces and responsive designs that align with the latest trends and industry standards. My work includes crafting intuitive navigation, visually appealing layouts, and cohesive branding elements, ensuring an optimal user experience across different devices and platforms.</li>
             </ul>
