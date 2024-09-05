@@ -22,6 +22,12 @@ export const metadata = {
   openGraph: {
     images: '/Me.jpg',
   },
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/apple-touch-icon.png',
+  },
+  manifest: '/site.webmanifest',
 }
 
 export default function RootLayout({ children }) {
